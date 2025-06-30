@@ -3,7 +3,7 @@
 I'm a student studying Computer Science and Engineering in KNU.
 
 ### 📚 Education
-- **2024. 02 - 2025. 01**  |  **ChungBuk National University, Computer Engineering** *(dropout)*
+- **2024. 02 - 2025. 01**  |  **ChungBuk National University, Department of Computer Engineering** *(dropout)*
 - **2025. 03 -**  |  **Kyungpook National University, School of Computer Science and Engineering, Global SW Convergence Major**
 
 
