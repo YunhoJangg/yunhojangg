@@ -1,16 +1,18 @@
-## Hi there 👋
+## Jang Yunho | 💮 KNU CSE 25
 
-<!--
-**YunhoJangg/yunhojangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student studying Computer Science and Engineering in KNU.
 
-Here are some ideas to get you started:
+### 📚 Education
+- **2024. 02 - 2025. 01**  |  **ChungBuk National University, Computer Engineering** *(dropout)*
+- **2025. 03 -**  |  **Kyungpook National University, School of Computer Science and Engineering, Global SW Convergence Major**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💻 Tech Stack
+- **Languages**: C
+- **Interests**: (Still exploring areas of software development to find my passion)
+
+### 📂 Projects
+- **2024. 11 - 2024.12**  |  **IngyoKim / Code_Ground (https://github.com/IngyoKim/Code_Ground)**  - UX / UI Design for the project as part of CBNU OSS course.
+
+### 📬 Contact
+**Instagram**  |  @wdg6348
