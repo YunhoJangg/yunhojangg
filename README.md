@@ -8,7 +8,7 @@ I'm a student studying Computer Science and Engineering in KNU.
 
 
 ### 💻 Tech Stack
-- **Languages**: C
+- **Languages**: C, Java, Python
 - **Interests**: (Still exploring areas of software development to find my passion)
 
 ### 📂 Projects
