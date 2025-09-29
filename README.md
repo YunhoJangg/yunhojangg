@@ -15,4 +15,4 @@ I'm a student studying Computer Science and Engineering in KNU.
 - **2024. 11 - 2024.12**  |  **Code Ground (https://github.com/IngyoKim/Code_Ground)**  - UX / UI Design for the project as part of CBNU OSS course.
 
 ### 📬 Contact
-**Instagram**  |  @wdg6348
+**Instagram**  |  @wdg6348 or @j_yunho4
