@@ -13,6 +13,7 @@ I'm a student studying Computer Science and Engineering in KNU.
 
 ### 📂 Projects
 - **2024. 11 - 2024.12**  |  **Code Ground (https://github.com/IngyoKim/Code_Ground)**  - UX / UI Design for the project as part of CBNU OSS course.
+- **2025.11**  |  **Jjikmuk (https://github.com/jungminmobile/Iwantfirst)**  - UX/UI design for an app project for Jjikmuk, a hackathon hosted by Haedal, a KNU IT College club.
 
 ### 📬 Contact
 **Instagram**  |  @u_know1104
