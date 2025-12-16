@@ -9,6 +9,7 @@ I'm a student studying Computer Science and Engineering in KNU.
 
 ### 💻 Tech Stack
 - **Languages**: C, Java, Python
+- **Tools**: Git
 - **Interests**: AI, IoT
 
 ### 📂 Projects
