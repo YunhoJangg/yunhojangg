@@ -9,7 +9,7 @@ I'm a student studying Computer Science and Engineering in KNU.
 
 ### 💻 Tech Stack
 - **Languages**: C, Java, Python
-- **Interests**: (Still exploring areas of software development to find my passion)
+- **Interests**: AI, IoT
 
 ### 📂 Projects
 - **2024. 11 - 2024.12**  |  **Code Ground (https://github.com/IngyoKim/Code_Ground)**  - UX / UI Design for the project as part of CBNU OSS course.
