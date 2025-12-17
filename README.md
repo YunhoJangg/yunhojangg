@@ -17,7 +17,7 @@
 
 ### 📂 Projects
 - **2024. 11. - 2024. 12.**  |  **Code Ground (https://github.com/IngyoKim/Code_Ground)** - **UI / UX 디자인 총괄**
-	- 충북대학교 컴퓨터공학과 1학년 2학기 전공 과목 '오픈소스기초프로젝트' 의 팀 프로젝트.
+	- 충북대학교 컴퓨터공학과 1학년 2학기 전공 과목 '오픈소스SW이해및실습' 의 팀 프로젝트.
   - 'Code Ground'는 알고리즘 학습을 돕는 어플리케이션.
 - **2025. 11.**  |  **Jjikmuk (https://github.com/jungminmobile/Iwantfirst)** - **UI / UX 디자인 담당**
 	- 경북대학교 IT대학 학술동아리 '해달'이 주관한 '2025 해달 해커톤' 의 팀 프로젝트.
